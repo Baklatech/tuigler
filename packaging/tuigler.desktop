@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=tuigler
+GenericName=Terminal creature
+Comment=A Fuggler-like creature whose mood follows CPU load and battery
+Comment[ru]=Консольный уродец: грустит от нагрузки и низкого заряда
+Exec=tuigler
+Terminal=true
+Icon=tuigler
+Categories=Utility;ConsoleOnly;
+Keywords=fuggler;monster;pet;tui;
